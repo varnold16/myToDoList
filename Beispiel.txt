@@ -1,0 +1,8 @@
+# Datei erstellt für myToDoList.pro	2019.06.23
+
+# Projekt	Fälligkeit		Aufgabe	Siehe
+SOWA	2019.06.23	1	Projekt abgeben	---	
+STAT_UE	2019.06.27	1	Shiny App programmieren	Moodle	
+KAUFEN	2019.07.01	1	Geburtstagskarte an Oma Mastnak	Mastnak	
+PRIVAT	2019.07.08	2	Bücher zurückgeben	Bücherei	
+PRIVAT	2099.12.31	3	Steuerausgleich	Finanzonline	
